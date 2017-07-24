@@ -1,5 +1,4 @@
-# Source code for my YouTube video
-## "How To Use Vuex with Framework7"
+# Source code for my YouTube video "How To Use Vuex with Framework7"
 
 ## Instructions
 Run in dev mode at localhost:8080:
